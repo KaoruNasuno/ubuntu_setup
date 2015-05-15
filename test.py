@@ -12,5 +12,5 @@ import urllib2
 import networkx
 import csv
 import pymc
-pymc.text()
+pymc.test()
 #import pandas
