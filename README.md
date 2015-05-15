@@ -1,4 +1,4 @@
-# Set-up commands for ubuntu 14.04.
+## set-up commands for ubuntu 14.04.
 
 ```sh
 sh ./command-list.sh
