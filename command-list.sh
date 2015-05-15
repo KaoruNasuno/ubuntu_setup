@@ -10,4 +10,4 @@ sudo pip install --allow-external mysql-connector-python mysql-connector-python;
 sudo pip install --upgrade gensim;
 
 
-sh ./test-scripts/python-test.sh 2> _test.log;
+#sh ./test-scripts/python-test.sh 2> ./test-scripts/log/test.log;
