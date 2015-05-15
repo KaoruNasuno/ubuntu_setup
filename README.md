@@ -1,4 +1,4 @@
-# This is a repository for ubuntu 14.04.
+# Set-up commands for ubuntu 14.04.
 
 ```sh
 sh ./command-list.sh
